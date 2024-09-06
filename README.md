@@ -3,6 +3,9 @@
 ## Description
 This application randomly selects an image from a folder of sample driver's license IDs, uploads it to JigsawStack, and processes the ID using optical character recognition (OCR) to extract information such as name, address, and ID number.
 
+## Demo Video
+[!ID Card Processing Demo]](https://drive.google.com/file/d/18S1RU29RxX8f88vjRNvi1iycRbdFsERa/view?usp=drive_link)
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
